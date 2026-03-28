@@ -8,4 +8,4 @@
 3_Conversations
 ![Conversations](https://github.com/Shrushti-k08/Network-Traffic-Analysis-using-Wireshark/blob/e6015dcd9d905ac03180511e4197a6306033555f/3_conversations.jpeg)
 4_Endpoints
-![Endpoints](
+![Endpoints](https://github.com/Shrushti-k08/Network-Traffic-Analysis-using-Wireshark/blob/3da032805395a46c5b8f6386fc53a6a65cf1c0db/4_Endpoints.jpeg)
