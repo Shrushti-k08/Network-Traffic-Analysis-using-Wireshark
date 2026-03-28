@@ -6,6 +6,6 @@
 2_Detection of Multiple SYN packets
 ![Detection of Multiple SYN packets](https://github.com/Shrushti-k08/Network-Traffic-Analysis-using-Wireshark/blob/a8c89b48f52382ef2257d905839b6a6ce84adc3d/2_Detection%20of%20Multiple%20SYN%20packets.jpeg)
 3_Conversations
-![Conversations](
+![Conversations](https://github.com/Shrushti-k08/Network-Traffic-Analysis-using-Wireshark/blob/e6015dcd9d905ac03180511e4197a6306033555f/3_conversations.jpeg)
 4_Endpoints
 ![Endpoints](
