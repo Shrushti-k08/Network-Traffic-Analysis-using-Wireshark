@@ -5,7 +5,7 @@ In this project I built a small lab, ran a SYN port scan against my own target m
 
 **Tools:** Wireshark, Nmap, hping3, Kali Linux, Ubuntu (VirtualBox)
 
-## Lab Setup
+## Lab Setup.
 | Machine | Role | IP Address |
 |---|---|---|
 | Kali Linux | Attacker / capture machine | 192.168.56.102 |
