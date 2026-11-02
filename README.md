@@ -16,7 +16,7 @@ Both VMs run on a VirtualBox host-only network, so all traffic stays inside my o
 ## 01. Lab Connectivity Test
 I pinged the target from Kali to confirm the machines could communicate. All 4 packets were received with 0% packet loss.
 
-<img src="screenshots/01_ping_test.png" width="700" alt="Ping test">
+<img src="screenshots/01_ping_test.png" width="700" alt="ping test">
 
 ## 02. Nmap SYN Scan
 I ran `sudo nmap -sS 192.168.56.101` from Kali. The scan finished in 1.57 seconds and found 6 open TCP ports: 21 (FTP), 22 (SSH), 80 (HTTP), 139 (NetBIOS), 445 (SMB) and 8080 (HTTP-proxy). The other 994 ports were closed.
